@@ -11,3 +11,4 @@ ranmd9a が作成・修正したプログラムの一覧です。
 | [favoritesToPlaylist](https://github.com/ranmd9a/favoritesToPlaylist) | BeatSaber用。<br>BeatSaber のゲーム内でお気に入りに入れた曲をプレイリスト化するスクリプト。<br>ゲーム内MOD の PlaylistManager で同様のことができるらしい(?)のであまり使う必要はないと思います。 |
 
 ※そのほかの repository は省略。
+※fork したものばっかりですな。
