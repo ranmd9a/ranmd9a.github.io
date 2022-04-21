@@ -3,7 +3,7 @@
 ranmd9a が作成・修正したプログラムの一覧です。
 
 - このページや wiki が Google 検索にのらないので(Search Console に登録しようとしてもうまく読み込まないし) note にも記載しています。  
-  https://note.com/ranmd9a/n/n3d23a653cd9f
+  [https://note.com/ranmd9a/n/n3d23a653cd9f](https://note.com/ranmd9a/n/n3d23a653cd9f)
 
 | 名前 | 説明 |
 |---|---|
